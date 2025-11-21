@@ -2,8 +2,6 @@
 <p align="center">
 <img src="https://8weeksqlchallenge.com/images/case-study-designs/1.png" alt="Image" width="450" height="450">
 
-If you want to give **Challenge #1** a try, click [here](https://8weeksqlchallenge.com/case-study-1/)
-
 ## Introduction
 Danny seriously loves Japanese food so in the beginning of 2021, he decides to embark upon a risky venture and opens up a cute little restaurant that sells his 3 favourite foods: sushi, curry and ramen.
 
