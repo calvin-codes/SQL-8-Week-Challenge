@@ -4,7 +4,7 @@
 The 8 Week SQL Challenge is started by Danny Ma through Data With Danny virtual data apprenticeship program, which consists of 8 different SQL challenges.
 
 ## 📚 Progress in the Challenges
-* 🍜 Challenge #1 - Danny's Diner
+* 🍜 Challenge #1 - Danny's Diner -> ONGOING
 
 ## 📖 Each Folder Contains
 - A `README.MD` file summarizing the challenge and datasets
